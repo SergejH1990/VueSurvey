@@ -1,5 +1,5 @@
 <script>
-
+import './assets/tailwind.css';
 </script>
 
 <template>
