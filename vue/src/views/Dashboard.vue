@@ -1,5 +1,5 @@
 <template>
-    <h1 class="bg-green">Dashboard</h1>
+    <h1 class="bg-green-500">Dashboard</h1>
 </template>
 
 <script>
